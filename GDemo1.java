@@ -1,6 +1,6 @@
+//Our problem is find out the k size subarray in the given array whose sum is maximum
 //Sliding Window with Two Pointer 
 //The window size is Constant already given in the question that is k
-//Our problem is find out the k size subarray in the given array whose sum is maximum
 //the window we taken is already given a constant window size k=3
 
 /*
